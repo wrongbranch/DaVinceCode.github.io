@@ -1,0 +1,19 @@
+{
+  "name": "dvcgithubio",
+  "version": "1.0.0",
+  "description": "Github pages.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://FirstStar@github.com/DaVinceCode/DaVinceCode.github.io.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DaVinceCode/DaVinceCode.github.io/issues"
+  },
+  "homepage": "https://github.com/DaVinceCode/DaVinceCode.github.io#readme"
+}
